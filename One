@@ -6,6 +6,7 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 rm -rf /
+git clone https://github.com/SKocur/Malware-Collection
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
